@@ -21,6 +21,10 @@
 
 ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc) - хороша доповідь про майбутне програмування. Там про минуле, теперішне і майбутнє.
 
+(Automatic Testing Laravel Project use Codeception)[https://medium.com/dot-lab/automatic-testing-laravel-project-use-codeception-f79fb19b9626]
+
+(Пост про деплой Laravel додатку з допомогою Kubernetes)[https://learnk8s.io/blog/deploying-laravel-to-kubernetes]
+
 ## Івенти
 10 червня відбудеться найбільша в Україні конференція для PHP розробників - PHP fwdays'18. Конференція проводиться у 2 потоки доповідей, Lightning Talks та Speakers' Corner.\
 [Попередня програма](https://fwdays.com/en/event/php-fwdays-2018/page/program)
@@ -39,7 +43,8 @@
 [5.6.36](http://php.net/ChangeLog-5.php#5.6.36)
 
 ## Цікаві бібліотеки
-[React PHP](https://reactphp.org/) - асинхронний PHP який вже можна використовувати в проді.
+[React PHP](https://reactphp.org/) - асинхронний PHP який вже можна використовувати в проді.\
+[PHP Go](https://github.com/kitech/php-go) - бібліотека, яка дає можливість писати PHP розширення на Golang.
 
 ## Різне
 
@@ -51,6 +56,19 @@
 
 ![Typical Github](https://pbs.twimg.com/media/DdLzR6eXkAE0GS8.jpg)
 
+![](https://i.redditmedia.com/gPUKkk6bssQIkAqf1GLsbA32GalkoE7Xh_mrCqYGKQc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=5d0da6239e332aa6e791e2077e2e6ec5)
+
+![](https://i.redditmedia.com/Jb8V6QT2L6tgQ1rk5Kaec9bfR8bdu7gJt-LaBmmWwjc.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=65ef6049f67350f20f5067dc1a5a84fa)
+
+![](https://i.redditmedia.com/7JF0ytBGd5quqTiDorAB7bN16GO9T0ILEGSTKxs5upc.png?s=d7a0adc004888db8527fcc5c05e97f35)
+
+![](https://i.redditmedia.com/w5JoeG_9UPU4AVssfjF95rEMvOPMx-tf52aPxzWQc_M.png?s=7918ddf9f96e4160ad7fac0588941417)
+
+![](https://i.redditmedia.com/nG7xcqS4tmeZbj2cT4MXXI9yGbzNrtyE_AMOvUo08JY.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=b1b14b35beb41f43ec07d46b576a6a16)
+
+![](https://i.redditmedia.com/x81GHZQ4Pp2TM3arMBHu66KkGyhTODi-xijRE76KWkY.png?s=a5674282ce0f9efad5322e2f0ddfedbf)
+
+![](https://i.redditmedia.com/n-alOt57fXDfyoZgfCF69wYR7mb3h5WyzuDv6NqMf-8.jpg?s=20fefb4343dfacf7d97b79aa25b8b503)
 ## Кого почитати
 [Jordi Boggiano](https://twitter.com/seldaek) - Co-founder of Packagist, Lead developer at Composer.
 
