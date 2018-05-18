@@ -21,9 +21,9 @@
 
 ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc) - хороша доповідь про майбутне програмування. Там про минуле, теперішне і майбутнє.
 
-(Automatic Testing Laravel Project use Codeception)[https://medium.com/dot-lab/automatic-testing-laravel-project-use-codeception-f79fb19b9626]
+[Automatic Testing Laravel Project use Codeception](https://medium.com/dot-lab/automatic-testing-laravel-project-use-codeception-f79fb19b9626)
 
-(Пост про деплой Laravel додатку з допомогою Kubernetes)[https://learnk8s.io/blog/deploying-laravel-to-kubernetes]
+[Пост про деплой Laravel додатку з допомогою Kubernetes](https://learnk8s.io/blog/deploying-laravel-to-kubernetes)
 
 ## Івенти
 10 червня відбудеться найбільша в Україні конференція для PHP розробників - PHP fwdays'18. Конференція проводиться у 2 потоки доповідей, Lightning Talks та Speakers' Corner.\
