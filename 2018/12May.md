@@ -1,4 +1,4 @@
-# PHP Дайжест 12
+# PHP Дайжест 12: Реліз 7.3, Що нового в 8 та багато іншого
 
 ## Основне
 [PHP Versions Stats - 2018.1 Edition](https://seld.be/notes/php-versions-stats-2018-1-edition) - статистика використання PHP за перший квартал 2018 від засновника Packagist.
