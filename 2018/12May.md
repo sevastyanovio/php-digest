@@ -72,5 +72,7 @@
 ## Кого почитати
 [Jordi Boggiano](https://twitter.com/seldaek) - Co-founder of Packagist, Lead developer at Composer.
 
+Спільнота [PHP Friends](https://phpfriends.club/). [Канал](https://t.me/phpfriendsclub) та [чат](https://t.me/phpfriendsclub_chat). Регулярно проводять локальні мітапи про PHP.
+
 Дякую, з вами був Роман Севастьянов.\
 [Підписуйтесь на мій Телеграм канал про PHP](https://t.me/elephant_php) - я там публікую новини зі світу PHP в Live режимі.
