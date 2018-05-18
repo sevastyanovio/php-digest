@@ -40,7 +40,7 @@
 [PHP 7.2.5](http://www.php.net/ChangeLog-7.php#7.2.5)\
 [PHP 7.1.17](http://www.php.net/ChangeLog-7.php#7.1.17)\
 [PHP 7.0.30](http://www.php.net/ChangeLog-7.php#7.0.30)\
-[5.6.36](http://php.net/ChangeLog-5.php#5.6.36)
+[PHP 5.6.36](http://php.net/ChangeLog-5.php#5.6.36)
 
 ## Цікаві бібліотеки
 [React PHP](https://reactphp.org/) - асинхронний PHP який вже можна використовувати в проді.\
