@@ -1,25 +1,25 @@
 # PHP Дайжест 13: typed properties, PHP in 2018, Adobe купує Magento
 
 ## Основне
-[(відео) PHP в 2018](https://www.youtube.com/watch?v=umxGUWYmiSw) – Rasmus Lerdorf (автор PHP) розповідає про стейт PHP в 2018 році.\
+[(відео) PHP в 2018](https://www.youtube.com/watch?v=umxGUWYmiSw) – Rasmus Lerdorf (автор PHP) розповідає про стейт PHP в 2018 році.
 
-[[PHP RFC] Typed Properties v2](https://wiki.php.net/rfc/typed_properties_v2) – Bob Weinand і Nikita Popov пропонують typed properties.\
+[[PHP RFC] Typed Properties v2](https://wiki.php.net/rfc/typed_properties_v2) – Bob Weinand і Nikita Popov пропонують typed properties.
 
-<img src="https://dzwonsemrish7.cloudfront.net/items/1D2o0W392v1507260k08/Image%202018-06-22%20at%203.42.22%20PM.png?v=0d242bda" alt="typed props" width="453px" heigth="176px"/>\
+<img src="https://dzwonsemrish7.cloudfront.net/items/1D2o0W392v1507260k08/Image%202018-06-22%20at%203.42.22%20PM.png?v=0d242bda" alt="typed props" width="453px" heigth="176px"/>
 
-[Adobe купує Magento](http://news.adobe.com/press-release/corporate/adobe-acquire-magento-commerce) – Adobe купує Magento за 1.68 мільярда доларів.\
+[Adobe купує Magento](http://news.adobe.com/press-release/corporate/adobe-acquire-magento-commerce) – Adobe купує Magento за 1.68 мільярда доларів.
 
-[Computer vision and machine learning in PHP using the opencv library](https://medium.com/@morozovsk/computer-vision-and-machine-learning-in-php-using-the-opencv-library-3131fe9df94b)\
+[Computer vision and machine learning in PHP using the opencv library](https://medium.com/@morozovsk/computer-vision-and-machine-learning-in-php-using-the-opencv-library-3131fe9df94b)
 
-[PHP top 100](https://www.exakat.io/top-100-php-functions/) – 100 найпопулярніших PHP функцій з 1900 open source проектів.\
+[PHP top 100](https://www.exakat.io/top-100-php-functions/) – 100 найпопулярніших PHP функцій з 1900 open source проектів.
 
-[PDO vs. MySQLi: The Battle of PHP Database APIs](https://websitebeaver.com/php-pdo-vs-mysqli)\
+[PDO vs. MySQLi: The Battle of PHP Database APIs](https://websitebeaver.com/php-pdo-vs-mysqli)
 
-[The State of Developer Ecosystem in 2018](https://www.jetbrains.com/research/devecosystem-2018/)\
+[The State of Developer Ecosystem in 2018](https://www.jetbrains.com/research/devecosystem-2018/)
 
-[(подкаст) Пятиминутка PHP: Выпуск №33 — JWT c Артёмом Пулявиным](http://5minphp.ru/episode33/)\
+[(подкаст) Пятиминутка PHP: Выпуск №33 — JWT c Артёмом Пулявиным](http://5minphp.ru/episode33/)
 
-[(відео) ReactPHP: Simple HTTP Server](https://www.youtube.com/watch?v=iNH3CPZQ_Ms&feature=youtu.be)\
+[(відео) ReactPHP: Simple HTTP Server](https://www.youtube.com/watch?v=iNH3CPZQ_Ms&feature=youtu.be)
 
 [Serverless and PHP: Performances](http://mnapoli.fr/serverless-php-performances/)
 
@@ -45,7 +45,7 @@
 ## Різне
 Я створив [Github репозиторій](https://github.com/sevastyanovio/php-digest) для DOU Digest. Тепер можемо всі разом контрібьютити в дайжест. Чекаю на ваші пулл реквести.\
 Майбутній СЕО Github Nat Friedman [розповідає, що коммітов на Github ще в 2009 році](https://www.reddit.com/r/PHP/comments/8pias6/nat_friedman_future_ceo_of_github_my_first_commit/). Писав на PHP. І каже, що PHP недооцінений.\
-[Як ви стали хороших PHP розробником?](https://www.reddit.com/r/PHP/comments/8qcqvf/how_does_one_become_a_good_php_developer/)\
+[Як ви стали хороших PHP розробником?](https://www.reddit.com/r/PHP/comments/8qcqvf/how_does_one_become_a_good_php_developer/)
 
 ![](https://i.redditmedia.com/-j1iHmO33IkE1AQ8I6J7_Ti0zH75P2C143TtqCowlpc.png?s=ec8e488f3820eac31f7ee8331c12565b)\
 
