@@ -1,4 +1,4 @@
-# PHP Дайжест 13: typed properties, PHP in 2018, Adobe купує Magento
+# PHP Дайжест :
 
 ## Основне
 
