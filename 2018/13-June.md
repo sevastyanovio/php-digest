@@ -23,6 +23,15 @@
 
 [Serverless and PHP: Performances](http://mnapoli.fr/serverless-php-performances/)
 
+[PHP-FIG April - May](https://medium.com/php-fig/updates-from-php-fig-april-and-may-32b1b47997ea) – список апдейтів від PHP-FIG за попередні два місяці.
+
+[Wordpress May 2018](https://wordpress.org/news/2018/06/the-month-in-wordpress-may-2018/) - дайжест по Wordpress за травень.
+
+[Список статтей про Laravel](https://github.com/laravel/blog-contest-may-mayhem/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) – великий список статтей з конкурсу статтей про Laravel.
+
+[SOLID Principles](https://hackernoon.com/solid-principles-simple-and-easy-explanation-f57d86c47a7f) – simple and easy explanation
+
+
 ## Івенти
 Найголовніша подія року в PHP в Україні це звичайно PHP Fwdays'18.\
 Конференція вже закінчилась і організатори [опублікували записи](https://fwdays.com/en/event/php-fwdays-2018) всіх виступів ([і мій теж ^_^](https://www.youtube.com/watch?v=4-KkQmlAfSs)).
