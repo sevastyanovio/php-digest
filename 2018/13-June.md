@@ -1,4 +1,4 @@
-# PHP Дайжест 13: typed properties, PHP in 2018, Adobe купує Magento
+# PHP Дайжест №13: typed properties, PHP in 2018, Adobe купує Magento
 
 ## Основне
 [(відео) PHP в 2018](https://www.youtube.com/watch?v=umxGUWYmiSw) – Rasmus Lerdorf (автор PHP) розповідає про стейт PHP в 2018 році.
