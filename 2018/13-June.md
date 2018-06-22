@@ -56,21 +56,21 @@
 Майбутній СЕО Github Nat Friedman [розповідає, що коммітов на Github ще в 2009 році](https://www.reddit.com/r/PHP/comments/8pias6/nat_friedman_future_ceo_of_github_my_first_commit/). Писав на PHP. І каже, що PHP недооцінений.\
 [Як ви стали хороших PHP розробником?](https://www.reddit.com/r/PHP/comments/8qcqvf/how_does_one_become_a_good_php_developer/)
 
-![](https://i.redditmedia.com/-j1iHmO33IkE1AQ8I6J7_Ti0zH75P2C143TtqCowlpc.png?s=ec8e488f3820eac31f7ee8331c12565b)\
+![](https://i.redditmedia.com/-j1iHmO33IkE1AQ8I6J7_Ti0zH75P2C143TtqCowlpc.png?s=ec8e488f3820eac31f7ee8331c12565b)
 
-![](https://i.redditmedia.com/qMfCRHCUJjVMbmp5mJ7rksu01blIlvmKSL9wKeBYL7M.png?s=13b0ede078401189d3c1b500169098a6)\
+![](https://i.redditmedia.com/qMfCRHCUJjVMbmp5mJ7rksu01blIlvmKSL9wKeBYL7M.png?s=13b0ede078401189d3c1b500169098a6)
 
-![](https://i.imgur.com/OjnRkW8.png)\
+![](https://i.imgur.com/OjnRkW8.png)
 
-![](https://i.imgur.com/jOo627t.jpg)\
+![](https://i.imgur.com/jOo627t.jpg)
 
-![](https://i.redditmedia.com/2dRc5HHd6yInVnlS9S3sT3NKxsh-Ieo8Qf-S63Phsww.png?s=7bff78fafad73f75182e95cecfdd5a58)\
+![](https://i.redditmedia.com/2dRc5HHd6yInVnlS9S3sT3NKxsh-Ieo8Qf-S63Phsww.png?s=7bff78fafad73f75182e95cecfdd5a58)
 
-![](https://i.redditmedia.com/SQobEZNNV2DZIeV3Ht6yOH-0hREnqLfEurbSgw4gh4Y.png?s=45bf9f2ca82cc6cc4b713492acb03c98)\
+![](https://i.redditmedia.com/SQobEZNNV2DZIeV3Ht6yOH-0hREnqLfEurbSgw4gh4Y.png?s=45bf9f2ca82cc6cc4b713492acb03c98)
 
-![](https://i.redditmedia.com/IZsv7WtOARd8I_Yee2sKZ7DE8PlHkPhvy4uZGBEfMEc.jpg?s=137039d658c11432bc0dc4ddcb9ed595)\
+![](https://i.redditmedia.com/IZsv7WtOARd8I_Yee2sKZ7DE8PlHkPhvy4uZGBEfMEc.jpg?s=137039d658c11432bc0dc4ddcb9ed595)
 
-![](https://i.redditmedia.com/xeXBNs_SyVwVlPVttg29NiyHiq31aleXAPiuWj9N59s.png?s=d30c57fa8f8cd84abcfe1bf74d883dbe)\
+![](https://i.redditmedia.com/xeXBNs_SyVwVlPVttg29NiyHiq31aleXAPiuWj9N59s.png?s=d30c57fa8f8cd84abcfe1bf74d883dbe)
 
 Дякую, з вами був Роман Севастьянов.\
 Підписуйтесь на мій [Телеграм канал про PHP](https://t.me/elephant_php) - я там публікую новини зі світу PHP, security баги в live режимі.
