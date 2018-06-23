@@ -31,6 +31,8 @@
 
 [SOLID Principles](https://hackernoon.com/solid-principles-simple-and-easy-explanation-f57d86c47a7f) – simple and easy explanation
 
+[The History of Rewriting PHP](https://thehistoryoftheweb.com/php/) – ще одна стаття серії The History of the Web, на цей раз про те, як Rasmus Lerdorf та Zeev Suraski переписували перші версії PHP
+
 
 ## Івенти
 Найголовніша подія року в PHP в Україні це звичайно PHP Fwdays'18.\
@@ -49,7 +51,8 @@
 [30 seconds of PHP code](https://github.com/appzcoder/30-seconds-of-php-code)\
 [Typed PHP](https://github.com/spatie/typed) - приклади того, что можна робити в PHP (generics, typed lists, tuples and structs)\
 [Manage Node resources with PHP](https://github.com/nesk/rialto)\
-[PHP in Browser](https://github.com/oraoto/pib) – пишимо фронтенд на PHP?
+[PHP in Browser](https://github.com/oraoto/pib) – пишемо фронтенд на PHP?\
+[RoadRunner, High-Performance PSR-7 PHP application server, load balancer and process manager](https://github.com/spiral/roadrunner)
 
 ## Різне
 Я створив [Github репозиторій](https://github.com/sevastyanovio/php-digest) для DOU Digest. Тепер можемо всі разом контрібьютити в дайжест. Чекаю на ваші пулл реквести.\
