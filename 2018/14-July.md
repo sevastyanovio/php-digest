@@ -8,6 +8,8 @@
 
 ## Open source
 
+[Рецепти для Symfony](https://github.com/sydorenkovd/symfony_recipes) - приклади, шаблони, рецепти для Symfony російською.
+
 ## Різне
 
 Дякую, з вами був Роман Севастьянов.\
