@@ -8,7 +8,7 @@
 
 ## Open source
 
-[Рецепти для Symfony](https://github.com/sydorenkovd/symfony_recipes) - приклади, шаблоны, рецепты для Symfony російською.
+[Рецепти для Symfony](https://github.com/sydorenkovd/symfony_recipes) - приклади, шаблони, рецепти для Symfony російською.
 
 ## Різне
 
