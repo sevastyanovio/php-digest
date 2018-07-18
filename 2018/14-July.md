@@ -13,7 +13,7 @@
 ## Open source
 
 [Рецепти для Symfony](https://github.com/sydorenkovd/symfony_recipes) - приклади, шаблони, рецепти для Symfony російською.\
-[RoadRunner, High-Performance PSR-7 PHP application server, load balancer and process manager](https://github.com/spiral/roadrunner)
+[RoadRunner](https://github.com/spiral/roadrunner) – High-Performance PSR-7 PHP application server, load balancer and process manager
 
 ## Різне
 
