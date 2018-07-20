@@ -25,17 +25,13 @@
 [Статья про OOP](https://kevinsmith.io/whats-so-great-about-oop) – що хорошого в ООП?
 
 [A JIT compiler for PHP](https://blog.intracto.com/a-jit-compiler-for-php)
-
-
-
-
  
 ## Івенти
 В цю неділю о 12:00 я проведу відкриту лекцію про основи PHP, iсторiю та навіщо вивчати PHP в 2018.\
 Рiвень: для початкiвця.\
 Лекція онлайн і безкоштовна, тому не втикайте [зареєструватись](http://bit.ly/dou_php_digest_lecture).
 
-8 серпня буду виступати в Харкові на [PHP Evening](https://www.facebook.com/events/205567483425967/). Івент орієнтованний на junior-middle розробників. Розповім про native PHP extensions. Інші спікери будуть анонсовані найближчім часом. Приходьте, буде цікаво.
+8 серпня буду виступати в Харкові на [PHP Evening](https://www.facebook.com/events/205567483425967/). Івент орієнтованний на junior-middle розробників. Розповім про native PHP extensions. Приходьте, буде цікаво.
 
 ## Релізи
 [PHP 7.1.20 Released](http://php.net/archive/2018.php#id2018-07-20-2)
@@ -59,8 +55,13 @@
 
 [https://github.com/leviy/release-tool](https://github.com/leviy/release-tool) – Command line tool for releasing new versions of a project 
 
-## Різне
+## Вакансії
+Один з найперспективніших стартапів в Україні – Restream.io [шукає Senior Software Engineer - Full Stack](https://restream.io/jobs/senior-software-engineer-full-stack) в Києві. Це реально можливість застрибнути в ракету й захопити весь світовий ринок відео-стрімінгу.
 
+## Різне
+30 серпня стартує мій курс по основам PHP. Інтенсивна прокачка для початківців. За 5 тижнів ми вивчимо основи і напишемо свій Twitter на MVC. Це мій перший курс, бета — тому ціна знижена і у кожного студента буде можливість своїм фідбеком покращувати продукт.\
+Спеціально для читачів ДОУ Дайжеста знижка по промокоду – WOW_10.\
+[Більше деталей – тут](https://doge.codes/php?utm_source=dou&utm_medium=php_digest&utm_campaign=php).
 
 [GIRL IN TECH](https://t.me/girlintech) - телеграм канал PHP розробниці про програмування, айті сферу, історії з власного досвіду та цікаві факти зі STEM сфери.
 
@@ -70,7 +71,23 @@
 
 [Яку IDE ви використовуєте?](https://www.reddit.com/r/PHP/comments/8w56nc/what_ide_do_you_use/)
 
+![](https://im2.ezgif.com/tmp/ezgif-2-b7176d8eb6.gif)
 
+![](https://im2.ezgif.com/tmp/ezgif-2-7d58c3bfd4.gif)
+
+![](https://i.redditmedia.com/fPpohqGEp7mjOAlIhh7m52MlATcwiWeozlHy3Frh3iQ.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=a7762b701439c45c354034d7431a1b9d)
+
+![](https://i.redditmedia.com/L6rZ-nob_SO35dFL8M0kwAE1GJtCre0RzqspyBQ9VVM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=b79cf1a3e42a8beddf218bc5a25483e6)
+
+![](https://i.redditmedia.com/oTG5vEpScU0eNEExwID4Qmy-0a4emM-qJviISP_Mx9I.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=eb9558bedfee93a0cd7c839368e64900)
+
+![](https://i.redditmedia.com/HKYTRTK72sJTeUUhS2WVXyUf-nehj1FXU0WhcHC1c1Y.jpg?s=1f3ae4106627b36b736188ec2d10d5d6)
+
+![](https://i.redditmedia.com/A-7dVTXf_7XaEfTW1sJN0EDt0_l0fY6i-PGUtgRlu7I.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=a9c2a8d3236e3614222b8384b13af89d)
+
+![](https://thumbs.gfycat.com/PointedOptimalFrog-small.gif)
+
+![](https://i.redditmedia.com/H_R-MyCDjp-ZGmWJujkoxb9C6ESOt3pvSMNpXR8JbmI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=0762e4a798a47500d03b6e5af01e5b87)
 
 ![business dude](https://i.imgur.com/T0oFwRT.png)
 
