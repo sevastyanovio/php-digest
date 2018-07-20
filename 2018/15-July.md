@@ -25,6 +25,8 @@
 [Статья про OOP](https://kevinsmith.io/whats-so-great-about-oop) – що хорошого в ООП?
 
 [A JIT compiler for PHP](https://blog.intracto.com/a-jit-compiler-for-php)
+
+[Port 22](https://www.ssh.com/ssh/port) – чому в SSH порт дефолтний 22?
  
 ## Івенти
 В цю неділю о 12:00 я проведу відкриту лекцію про основи PHP, iсторiю та навіщо вивчати PHP в 2018.\
