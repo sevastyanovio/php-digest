@@ -93,9 +93,9 @@
 
 ![](https://i.imgur.com/H9h1FVz.png)
 
-Дякую, з вами був Роман Севастьянов.\
-Підписуйтесь на мій [Телеграм канал про PHP](https://t.me/elephant_php) - я там публікую новини зі світу PHP, security баги в live режимі.
 
-Дякую [@sydorenkovd](https://github.com/sydorenkovd), [@llaakkkk](https://github.com/llaakkkk), [@Lifeformwp](https://github.com/Lifeformwp) за те, що додавали посилання в Дайжест.
-
+Дякую [@sydorenkovd](https://github.com/sydorenkovd), [@llaakkkk](https://github.com/llaakkkk), [@Lifeformwp](https://github.com/Lifeformwp) за те, що додавали посилання в Дайжест.\
 [Github репозиторій](https://github.com/sevastyanovio/php-digest) для DOU Digest.
+
+З вами був Роман Севастьянов.\
+Підписуйтесь на мій [Телеграм канал про PHP](https://t.me/elephant_php) - я там публікую новини зі світу PHP, security баги в live режимі.
