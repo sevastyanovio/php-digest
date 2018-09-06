@@ -67,6 +67,30 @@
 [Is PHP good for freelancing ?](https://www.reddit.com/r/PHP/comments/96scrr/is_php_good_for_freelancing/)
 [Do you think being a programmer has made you more pessimistic](https://www.reddit.com/r/PHP/comments/97dk4z/do_you_think_being_a_programmer_has_made_you_more/)
 
+![](https://i.redditmedia.com/8qUYN2mTZwCLJBfyKUyEt-7YPzAqurM6jwgRBrOBUbU.png?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d2cbab6bce2450593be1e9ff2e83a265)
+
+![](https://i.redditmedia.com/04z3rZfm9j-UhK51y-qiNQ0ZKAeoJYbgXT1tabH9YAk.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=24aca700d3d5f0650ab9a344e9566996)
+
+
+![](https://i.redditmedia.com/iEXZkt98RtEMT0Ab3WzJaQ1bq2ymRE7S4y8HYFZ6wjA.png?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=304d4c66452d850d69274586149fef99)
+
+
+![](https://i.redditmedia.com/_G667YN0nC50E_3qneSa8Z36ZU96syo5QJUvOlrK7xA.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=e633d940fa5deaaf7333dda3d76d1412)
+
+
+![](https://i.redditmedia.com/gFq5EE_O-blBZbNYnfDRnTTwAHiubXUPpP-Iqywp_hA.png?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=5ece82ad71b84057e9f22e22715d271d)
+
+
+![](https://i.redditmedia.com/12Qy7ZrzIx8Mal4kOKSSikLgVRrwml9kAJgEMlWlsuM.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=1cc5e6ba7ad1946af0c282d78873f9cd)
+
+
+![](https://i.redditmedia.com/WslsNTVXESA9Bvq7BNSvDGoxV56jT_Bd9IiElrS8i_k.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=1c959c76132c5675da23fc94f8c6db4f)
+
+![](https://i.redditmedia.com/NgLk5l16LCBBv3oaHx4GtPz0DGMxPyissjlWQqM5yHw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=f192cba4e05eba05c085b40b9697d5d2)
+
+![](https://i.redditmedia.com/PNgx62jw5UJy-7OaubhTK5pGVuK9cTmlMaq3mDFH3Z8.png?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=0e66c50bba4edb79d7dcb1033ded6c98)
+
+
 
 З вами був Роман Севастьянов.\
 Підписуйтесь на мій [Телеграм канал про PHP](https://t.me/elephant_php) - я там публікую новини зі світу PHP, security баги в live режимі.
