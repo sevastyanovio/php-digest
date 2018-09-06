@@ -24,22 +24,32 @@
 
  
 ## Івенти
-В цю неділю о 12:00 я проведу відкриту лекцію про основи PHP, iсторiю та навіщо вивчати PHP в 2018.\
-Рiвень: для початкiвця.\
-Лекція онлайн і безкоштовна, тому не втикайте [зареєструватись](http://bit.ly/dou_php_digest_lecture).
+15 вересня відбудеться вже другий рік поспіль масштабна конференція для розробників. Цього року плануємо зібрати понад 1000 учасників. Конференція проводиться пройде y 4 потоки доповідей та Speakers’ Corner. 
+[Попередня програма](https://fwdays.com/en/event/highload-fwdays-2018#utm_source=infopartners&utm_medium=highload&utm_campaign=dou_php_digest)
 
-8 серпня буду виступати в Харкові на [PHP Evening](https://www.facebook.com/events/205567483425967/). Івент орієнтованний на junior-middle розробників. Розповім про native PHP extensions. Приходьте, буде цікаво.
+Серед спікерів: Philipp Krenn (Elastic), Alkin Tezuysal (Percona), Олександр Соловйов (Kasta), Дмитро Волошин (Preply.com), Михаїл Овчінніков (Badoo) та [інші](https://fwdays.com/en/event/highload-fwdays-2018#utm_source=infopartners&utm_medium=highload&utm_campaign=dou_php_digest). 
+
+Для читачів дайджесту - промо код на знижку 10%: dou-digest-fwdays
+[Купити квитки](https://fwdays.com/en/event/highload-fwdays-2018#utm_source=infopartners&utm_medium=highload&utm_campaign=dou_php_digest)
+
+13 вересня буду виступати в Харкові на [PHP Evening](https://www.facebook.com/events/205567483425967/). Івент орієнтованний на junior-middle розробників. Розповім про native PHP extensions. Приходьте, буде цікаво.
+
+1 вересня Михайло Боднарчук провів відкриту лекцію для doge.codes про автоматизоване тестування за допомогою Codeception. [Відеозапис доступний на Ютубі](https://www.youtube.com/watch?v=5RyJgW-6ZSE)
+
+doge.codes проводить [курс по основам PHP](https://doge.codes/php?utm_source=dou&utm_medium=promo_post&utm_campaign=php2&utm_content=dou_php_digest). Під час курсу ви вивчите основи РНР та напишете свою версію Twitter на ООП.
+
+Також відкритий набір на курс по [React](http://doge.codes/react?utm_source=dou&utm_medium=promo_post&utm_campaign=php2&utm_content=dou_php_digest). Стань профессіоналом в Реакті всього за 6 неділь по підговтовленній программі і приктичних завданнях.
+
+Для читачів дайджесту - промо код на знижку 10%: DOU_DIGEST
+[Детальна інформація](https://fwdays.com/en/event/highload-fwdays-2018#utm_source=infopartners&utm_medium=highload&utm_campaign=dou_php_digest)
+
 
 ## Релізи
-[PHP 7.1.20 Released](http://php.net/archive/2018.php#id2018-07-20-2)
+[PHP 7.3.0.beta3 Released](http://php.net/archive/2018.php#id2018-08-30-1)
 
-[PHP 5.6.37 Released](http://php.net/archive/2018.php#id2018-07-20-1)
+[PHP 7.1.21 Released](http://php.net/archive/2018.php#id2018-08-17-1)
 
-[PHP 7.0.31 Released](http://php.net/archive/2018.php#id2018-07-19-3)
-
-[PHP 7.2.8 Released](http://php.net/archive/2018.php#id2018-07-19-2)
-
-[PHP 7.3.0alpha4 Released](http://php.net/archive/2018.php#id2018-07-19-1)
+[PHP 7.2.9 Released](http://php.net/archive/2018.php#id2018-08-16-3)
 
 [Laravel 5.7](https://laravel-news.com/laravel-5-7-is-now-released)
 
