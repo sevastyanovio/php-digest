@@ -21,6 +21,8 @@
 
 [What's wrong with popular articles telling you that foo is faster than bar?](https://phpdelusions.net/articles/single_vs_double)
 
+[Відеозаписи з конференції CODEiD PHP, Odessa, 2018](https://www.youtube.com/playlist?list=PLjboTnYaIwNEv-wNSrsL_J6Ln_F2wXw_T)
+
 
  
 ## Івенти
