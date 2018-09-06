@@ -1,4 +1,4 @@
-# PHP Дайжест #16: 
+# PHP Дайжест #16: Новинки в РНР 7.3, Ларавель 5.7, головні події цього місяця
 
 ## Основне
 [Що нового в РНР 7.3 за 30 секунд](https://www.tomasvotruba.cz/blog/2018/08/16/whats-new-in-php-73-in-30-seconds-in-diffs/#what-s-new-in-php-7-3-in-30-seconds-in-diffs)
