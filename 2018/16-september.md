@@ -59,13 +59,17 @@
 
 ## Open source
 [PHP project scaffolding tool](https://github.com/adhocore/phint)
+
 [Show syntax-highlighted code of 150+ languages in your terminal](https://github.com/Loilo/Lowlight)
 
 
 ## Різне
 [Що краще .env чи config.php?](https://www.reddit.com/r/PHP/comments/99nosy/how_is_using_a_env_file_better_than_just_using_a/)
+
 [Is PHP good for freelancing ?](https://www.reddit.com/r/PHP/comments/96scrr/is_php_good_for_freelancing/)
+
 [Do you think being a programmer has made you more pessimistic](https://www.reddit.com/r/PHP/comments/97dk4z/do_you_think_being_a_programmer_has_made_you_more/)
+
 
 ![](https://i.redditmedia.com/8qUYN2mTZwCLJBfyKUyEt-7YPzAqurM6jwgRBrOBUbU.png?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=d2cbab6bce2450593be1e9ff2e83a265)
 
