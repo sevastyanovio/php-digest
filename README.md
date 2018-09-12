@@ -5,7 +5,8 @@ Crowdsourced PHP Digest for DOU.ua
 1) Мова – українська
 2) Якщо бажаєш додати посилання до дайжесту – просто створи новий пулл реквест
 
-Останній дайджест був опублікований [7 вересня, 2018](https://github.com/sevastyanovio/php-digest/blob/master/2018/16-september.md)
+Наступний дайжест буде опублікованно в жовтні, 2018.
+[Ось тут його драфт](https://github.com/sevastyanovio/php-digest/blob/master/2018/17-october.md)
 
 Чекаємо на ваші пулл реквести.
 
