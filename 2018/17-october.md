@@ -23,10 +23,13 @@
 
 [Chrome 70 — що нового в DevTools](https://www.youtube.com/watch?v=LJq8vg8ktdQ&index=2&list=PLNYkxOF6rcIBDSojZWBv4QJNoT4GNYzQD&linkId=57789820)
 
+[Вийшли відео Одеської конференції CodeID](https://www.youtube.com/playlist?list=PLjboTnYaIwNEv-wNSrsL_J6Ln_F2wXw_T)
+
 ## Івенти
 Безкоштовна онлайн-лекція від мене – Роми Севастьянова, продуктового розробника з досвідом 6+ років. Про те, яке майбутне чекає РНР, які найпопулярніші помилки новачки допускають при вивчені PHP.\
 Лекція пройде в онлайні, в неділю 13:00.\
 [Потрібна попередня реєстрація за цим посиланням](http://bit.ly/2ORt3aA)
+
 
 ## Релізи
 [Codeception 2.5 released](https://codeception.com/09-24-2018/codeception-2.5.html) – With snapshot testing support!
