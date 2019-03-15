@@ -1,4 +1,4 @@
-# PHP Дайжест #19: 
+# PHP Дайжест #19: Реліз xDebug, нові RFC, робимо сайти швидкими
 
 ## Основне
 * [Symfony Gets Real-time Push Capabilities!](https://symfony.com/blog/symfony-gets-real-time-push-capabilities) 
@@ -9,10 +9,14 @@
 * [Оптимізуємо швидкість роботи РНР](https://dev.to/elabftw/optimizing-your-php-app-speed-3hd4)
 * [Design Microservice Architectures the Right Way](https://www.youtube.com/watch?v=j6ow-UemzBc)
 * [Hand-written service containers](https://matthiasnoback.nl/2019/03/hand-written-service-containers/)
-* [Keeping (large) data providers organized in PHPUnit ](https://dev.to/erikbooij/keeping-large-data-providers-organized-in-phpunit-983)
-* [Getting the most out of server side caching ](https://dev.to/erikbooij/getting-the-most-out-of-server-side-caching-35o7)
+* [Keeping (large) data providers organized in PHPUnit](https://dev.to/erikbooij/keeping-large-data-providers-organized-in-phpunit-983)
+* [Getting the most out of server side caching](https://dev.to/erikbooij/getting-the-most-out-of-server-side-caching-35o7)
 * [Comparing PHP’s Autoload](https://dev.to/jorgecc/comparing-phps-autoload-176a)
 
+## Лекція
+
+Іван Акулов працював в Google разом з легендарним Addy Osmani над гайдами по оптимізації сайтів. Лекція вiд Iвана про те, як робити швидкі сайти в 2019 (англійською мовою).\
+[Записуйся вже, бо кількість місць обмежена](https://dogetalks.com/web_performance).
 
 ## PHP RFC
 [[7.4] Arrow Functions 2.0](https://wiki.php.net/rfc/arrow_functions_v2):
