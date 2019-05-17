@@ -54,7 +54,7 @@
 * [💡Instant PHP quality checks from your console](https://github.com/nunomaduro/phpinsights)
 
 ## Різне
-
+* [Безкоштовна емейл-розсилка з кращими лекціями по frontend](https://dogetalks.com/). Щотижня нова доповідь.
 * [Цікаве обговорення проблем з Doctrine на Reddit](https://www.reddit.com/r/PHP/comments/bhctmm/my_problems_with_doctrine/)
 * [Репозиторій на Github з задачками по РНР](https://github.com/azdanov/php-interview-exercises) – Підходить для ти, хто планує змінити роботу і хоче потренируватись
 
