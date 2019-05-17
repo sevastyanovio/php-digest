@@ -38,9 +38,6 @@
 * [PHP RFC: Spread Operator in Array Expression](https://wiki.php.net/rfc/spread_operator_for_array)
 ![](https://i.imgur.com/KUqBxHc.png)
 
-## Спонсор дайжесту
-Компанія [Pizdata](https://pizdata.is/) допомагає вирішувати бізнес-проблеми за допомогою дизайну.
-
 ## Релізи
 * [PHP 7.1.29](https://www.php.net/ChangeLog-7.php#7.1.29)
 * [PHP 7.2.18](https://www.php.net/ChangeLog-7.php#7.2.18)
@@ -75,6 +72,9 @@
 ![](https://i.redd.it/n1293pz7oiu21.png)
 
 ![](https://preview.redd.it/wkqi06cl6ww21.jpg?width=640&crop=smart&auto=webp&s=f99c0e39be8c51eb3cf0565a1bfccb7b1e0b6f58)
+
+Досить часто у нашій роботі бувають потрібні не тільки навички програмування, але й гарне оформлення наших робіт (open source, сайт-портфоліо, pet-projects), але не завжди під рукою є хороший дизайнер.
+Компанія [Pizdata](https://pizdata.is) допомагає вирішувати бізнес-проблеми за допомогою дизайну. 
 
 З вами був [Роман Севастьянов @romasevastyanov](https://twitter.com/romasevastyanov).\
 Підписуйтесь на мій [Телеграм канал про PHP](https://t.me/elephant_php) - я там публікую новини зі світу PHP, security баги в live режимі.
